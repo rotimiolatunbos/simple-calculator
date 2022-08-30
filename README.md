@@ -4,7 +4,7 @@ A calculator with basic functionalities built with react
 ## Demo
 Check out the live demo [here](http://simple-calculator-rosy.vercel.app/)
 
-## Screnshot
+## Screenshot
 ![simple-calculator screenshot](/screenshot/image.webp)
 
 ## Libraries
