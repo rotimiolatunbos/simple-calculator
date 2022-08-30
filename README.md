@@ -8,10 +8,10 @@ Check out the live demo [here](http://simple-calculator-rosy.vercel.app/)
 ![simple-calculator screenshot](/screenshot/image.webp)
 
 ## Libraries
-It is built with `react` (bootstrapped with create-react-app) and `@mui/joy` libraries. 
+It is built with `react` (bootstrapped with `create-react-app`) and `@mui/joy` libraries. 
 
 ## Installation and Usage
-1. You should have nodejs installed on your pc. You can download it [here]()
+1. You should have nodejs installed on your pc. You can download it [here](https://nodejs.org/en/download/)
 2. Clone this repo to your pc using this command
 ```git
 git clone https://github.com/rotimiolatunbos/simple-calculator.git
